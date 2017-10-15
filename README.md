@@ -1,6 +1,6 @@
 # Parang
 
-To play this game, download either the .exe (windows) or .jar (max/linux/windows and run with java) in the deploy folder. You will probably get a warning saying this file is untrusted/certified. Select 'I understand the risks' and run it anway. If you want to look at the source code its right here! :)
+To play this game, download either the .exe (windows) or .jar (max/linux/windows and run with java) in the deploy folder. You will probably get a warning saying this file is untrusted/certified. Select 'I understand the risks' and run it anway. If you want to look at the source code its right here. And if you really want you can compile and run it yourself! :)
 
 
 Our first *feature length* java platformer/adventure game! 
